@@ -1,3 +1,6 @@
+import time
+
+
 ### Mad Libs ###
 ### Source: https://i.pinimg.com/736x/f7/7b/49/f77b492883b5eba4ad64b3ed02a51964--mad-lips-an-adjective.jpg
 ### Ask Questions Here ###
@@ -69,4 +72,6 @@ print("A bowl of ruby-red " + noun5 +" sauce, a sweet-" + noun6 +" casserole, an
 print("But the dish I looked forard to most was Granma " + room2 +"'s famous " + noun7 +"pie.")
 print("Thanksgiving is my favorite holiday, " + bodypart2 +"down.")
 
+
+time.sleep(100)
 
